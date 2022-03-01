@@ -9,7 +9,7 @@
 <br>
 
 ## Summary
-A mechanical rotary encoder allows smooth dimming of a LED-Strip, pressing the wheel switches between off-mid-max brightness. The raster of the encoder gives a nice haptic feeling when rolling the wheel. Encoder, wheel and switch originate from a mouse. The assembler source contains robust encoder routines for leveling switch bouncing.
+A mechanical rotary encoder allows smooth dimming of a LED-Strip, pressing the wheel switches between off-mid-max brightness. The raster of the encoder gives a nice haptic feeling when rolling the wheel. Encoder, wheel and switch originate from a mouse. The assembler source contains robust encoder routines to compensate switch bouncing.
 
 <br>
 
